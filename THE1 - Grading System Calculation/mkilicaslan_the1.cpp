@@ -1,4 +1,4 @@
-/*	mkilicaslan_the1  */
+// mkilicaslan_the1
 #include <iostream>
 #include <string>
 using namespace std;
